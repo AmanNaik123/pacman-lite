@@ -1,2 +1,3 @@
 # pacman-lite
-Simplistic Pacman game with every mechanic the real Pacman game has.
+A simple Python Pacman game using Pygame.  
+Collect all the dots to win, avoid ghosts, and use power-ups!
